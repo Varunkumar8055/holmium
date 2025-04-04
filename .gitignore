@@ -26,3 +26,24 @@ lerna-debug.log*
 
 # misc
 .DS_Store
+
+
+
+
+# client-value : Ccs8Q~gclKRwWWQ9IciSR3xJAn.xNy3PF1U4Ha.k
+# client-id : 9894b866-f85c-4910-98b8-7da5de440554
+# tenant-id : 5d8b8d43-ebf0-4662-910c-afc6f0f2dff9
+# subcription-id : b1c69a84-d2c2-4e7e-9fc6-f4ef58e56741
+
+
+# {
+#     "clientSecret":  "Ccs8Q~gclKRwWWQ9IciSR3xJAn.xNy3PF1U4Ha.k",
+#     "subscriptionId":  "9894b866-f85c-4910-98b8-7da5de440554",
+#     "tenantId":  "5d8b8d43-ebf0-4662-910c-afc6f0f2dff9",
+#     "clientId":  "b1c69a84-d2c2-4e7e-9fc6-f4ef58e56741"
+# };
+
+# '{"clientSecret":"Ccs8Q~gclKRwWWQ9IciSR3xJAn.xNy3PF1U4Ha.k","subscriptionId":"9894b866-f85c-4910-98b8-7da5de440554","tenantId":"5d8b8d43-ebf0-4662-910c-afc6f0f2dff9","clientId":"b1c69a84-d2c2-4e7e-9fc6-f4ef58e56741"}'
+
+
+# {"clientSecret":"Ccs8Q~gclKRwWWQ9IciSR3xJAn.xNy3PF1U4Ha.k","subscriptionId":"9894b866-f85c-4910-98b8-7da5de440554","tenantId":"5d8b8d43-ebf0-4662-910c-afc6f0f2dff9","clientId":"b1c69a84-d2c2-4e7e-9fc6-f4ef58e56741"}
