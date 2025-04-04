@@ -10,7 +10,7 @@ env:
   RESOURCE_GROUP: Holmium
   CONTAINER_APPS_ENVIRONMENT: holmium-env
   LOG_ANALYTICS_WORKSPACE: holmium-law
-  ACR_REGISTRY: holmium1si22ad405.azurecr.io
+  ACR_REGISTRY: 1si22ad405.azurecr.io
   ACR_REPOSITORY_NAME: holmium
   CONTAINER_APP_NAME: holmium
   TARGET_PORT: 3000
